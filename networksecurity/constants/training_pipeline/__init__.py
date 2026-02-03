@@ -13,6 +13,8 @@ TRAIN_FILE_NAME = "train.csv"
 TEST_FILE_NAME = "test.csv"
 
 
+SCHEMA_FILE_PATH = os.path.join("data_schema", "schema.yaml")
+
 """
 DATA INGESTION CONSTANTS
 """
