@@ -6,4 +6,5 @@ certifi
 scikit-learn
 dataclasses
 pyaml
+mlflow
 -e .
