@@ -1,7 +1,6 @@
 # Network Security Threat Detection System
 
 A machine learning system designed to detect malicious network activity using a modular ML pipeline and FastAPI prediction service. This project is proposed to implement the complete ML lifecycle including data ingestion, validation, transformation, model training, evaluation, and prediction.
-Let's see how much I can get it done 👨‍💻 Coder
 
 --- 
 
@@ -22,4 +21,5 @@ Let's see how much I can get it done 👨‍💻 Coder
 
 ✅ Machine learning pipeline completed  
 🚧 Deployment and enhancements in progress  
+
 
